@@ -25,7 +25,7 @@ Após abrir o arquivo `index.html` em um navegador, você verá o cartão de emb
 
 ![Exemplo do Cartão de Embarque](assets/imagem-card.jpg)
 
-[Va para o site]([text](https://fabiocoutinho1.github.io/card/))
+[Va para o site](https://fabiocoutinho1.github.io/card/)
 
 ## Contribuição
 
